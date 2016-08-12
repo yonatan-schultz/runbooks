@@ -173,3 +173,5 @@ Since this is in puppet simply making a PR against the puppet repo containing th
 ](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-16-04)
 
 [https://www.liquidweb.com/kb/how-to-lowering-your-dns-ttls/](https://www.liquidweb.com/kb/how-to-lowering-your-dns-ttls/)
+
+[http://www.puppetcookbook.com/posts/restart-a-service-when-a-file-changes.html](http://www.puppetcookbook.com/posts/restart-a-service-when-a-file-changes.html)
