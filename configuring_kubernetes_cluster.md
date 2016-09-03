@@ -23,9 +23,11 @@ sudo puppet agent --enable
 sudo puppet agent -t
 ```
 
+We'll need to add `cgroup_enable=cpuset` to `/boot/cmdline.txt` in order to run kubelet.
+
 Lastly, update the hostname by editing `/boot/cmdline.txt`.
 
-Now we're ready to configure the Kubernetes master.
+Reboot the service and then we'll be ready to configure the Kubernetes master.
 
 ###Configuring the Master
 
